@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayoubbijarche
 - 👀 I’m interested in Programming & newest tech
-- 🌱 I’m currently learning web dev in rust using yew framework
+- 🌱 I’m currently trying to master rust programming
 - 📚 Seeking knowledge in the programming realm
 - 📫 How to reach me : email - ayoubbijarche5@gmail.com - whatsapp : https://wa.me/0688183624 
-- ⚡ Fun fact: Null;
+
 
 
