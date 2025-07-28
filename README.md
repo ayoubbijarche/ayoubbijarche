@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoubbijarche
 - 👀 I’m interested in Programming & newest tech
-- 📚 Seeking knowledge in the programming realm
+- 📚 Mainly a blockchain developer
 - 📫 How to reach me : email - ayoubbijarche6@gmail.com
 
 
